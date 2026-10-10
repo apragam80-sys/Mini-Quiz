@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Sunset Light Theme Colors -->
+    <color name="primary">#DD2476</color>
+    <color name="primary_dark">#B01859</color>
+    <color name="accent">#FF512F</color>
+    <color name="secondary_highlight">#FFB300</color>
+
+    <!-- Gradient Background Colors (Sunset) -->
+    <color name="gradient_start">#FF512F</color>
+    <color name="gradient_center">#EE3B53</color>
+    <color name="gradient_end">#DD2476</color>
+
+    <!-- UI Component Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="text_primary">#2D2D2D</color>
+    <color name="text_secondary">#666666</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="card_stroke">#20FF512F</color>
+
+    <!-- Category Card Accents -->
+    <color name="cat_android">#3DDC84</color>
+    <color name="cat_programming">#29B6F6</color>
+    <color name="cat_general">#AB47BC</color>
+    <color name="cat_science">#FF7043</color>
+    <color name="cat_all">#FFB300</color>
+
+    <!-- Option Button State Colors -->
+    <color name="option_default_bg">#FFFFFF</color>
+    <color name="option_default_stroke">#E0E0E0</color>
+    <color name="option_correct_bg">#E8F5E9</color>
+    <color name="option_correct_stroke">#2E7D32</color>
+    <color name="option_correct_text">#1B5E20</color>
+
+    <color name="option_wrong_bg">#FFEBEE</color>
+    <color name="option_wrong_stroke">#C62828</color>
+    <color name="option_wrong_text">#B71C1C</color>
+
+    <color name="option_skipped_bg">#FFF3E0</color>
+    <color name="option_skipped_text">#E65100</color>
+
+    <!-- Score, Streak & Timer Colors -->
+    <color name="score_positive">#2E7D32</color>
+    <color name="score_negative">#C62828</color>
+    <color name="timer_progress">#DD2476</color>
+    <color name="timer_track">#FFE0B2</color>
+    <color name="streak_badge">#FF512F</color>
+    <color name="lifeline_btn_bg">#30FFFFFF</color>
+</resources>

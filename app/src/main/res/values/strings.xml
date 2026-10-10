@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mini Quiz</string>
+    <string name="quiz_title">Mini Quiz</string>
+    <string name="quiz_subtitle">Test Your Skills</string>
+    <string name="quiz_credits">© 2026 | Made by GDG JSS</string>
+    <string name="quiz_illustration">Quiz illustration</string>
+
+    <!-- Category Selection -->
+    <string name="select_category_title">Select Quiz Category</string>
+    <string name="category_android">Android</string>
+    <string name="category_programming">Programming</string>
+    <string name="category_general">General Knowledge</string>
+    <string name="category_science">Science</string>
+    <string name="category_all">All Topics</string>
+    <string name="category_android_desc">Kotlin, SDKs, Jetpack &amp; Components</string>
+    <string name="category_programming_desc">Data Structures, OOP &amp; Logic</string>
+    <string name="category_general_desc">Tech History, World &amp; Protocols</string>
+    <string name="category_science_desc">Physics, Chemistry &amp; Biology</string>
+    <string name="category_all_desc">Shuffled questions from all categories</string>
+
+    <!-- Lifelines & Streak -->
+    <string name="lifelines_title">LIFELINES</string>
+    <string name="lifeline_5050">50-50</string>
+    <string name="lifeline_skip">SKIP</string>
+    <string name="streak_bonus_format">🔥 %1$d Streak! +2 Bonus</string>
+
+    <!-- Quiz Screen -->
+    <string name="question_number_format">Question %1$d/%2$d</string>
+    <string name="score_format">Score: %1$d</string>
+    <string name="timer_format">%1$ds</string>
+    <string name="next_button">NEXT</string>
+    <string name="submit_button">SUBMIT</string>
+    <string name="timed_out_message">Time\'s Up!</string>
+
+    <!-- Score Popups -->
+    <string name="score_popup_correct">+4</string>
+    <string name="score_popup_wrong">-1</string>
+    <string name="score_popup_timeout">+0</string>
+
+    <!-- Result Screen -->
+    <string name="quiz_completed">Quiz Completed!</string>
+    <string name="your_score">Your Score</string>
+    <string name="high_score_format">High Score: %1$d</string>
+    <string name="performance_details">Performance Details</string>
+    <string name="stat_correct">Correct: %1$d</string>
+    <string name="stat_wrong">Wrong: %1$d</string>
+    <string name="stat_skipped">Skipped: %1$d</string>
+    <string name="stat_accuracy">Accuracy: %1$.0f%%</string>
+
+    <!-- Review Screen -->
+    <string name="review_answers">REVIEW ANSWERS</string>
+    <string name="review_title">Quiz Questions Review</string>
+    <string name="user_answer_format">Your Answer: %1$s</string>
+    <string name="correct_answer_format">Correct Answer: %1$s</string>
+    <string name="status_correct">CORRECT</string>
+    <string name="status_wrong">WRONG</string>
+    <string name="status_skipped">SKIPPED</string>
+
+    <!-- Feedback Messages -->
+    <string name="feedback_perfect">Outstanding! Perfect Score! 🏆</string>
+    <string name="feedback_excellent">Excellent Job! 🎉</string>
+    <string name="feedback_good">Good Effort! Keep Learning! 👍</string>
+    <string name="feedback_needs_practice">Keep Practicing! You Can Do Better! 💪</string>
+
+    <!-- Action Buttons & Settings -->
+    <string name="restart_quiz">RESTART QUIZ</string>
+    <string name="exit_app">EXIT</string>
+    <string name="dark_mode_title">Dark Mode</string>
+</resources>
